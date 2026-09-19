@@ -12,4 +12,4 @@ git clone https://github.com/ThisisANOM/Naengi.git && cd Naengi && pip install -
 If you want to use a proxy, you can prepare http proxies and create a file called proxies.txt in the main folder, the source code will use it automatically.
 
 ## Author
-- [ANOM](https://t.me/ThisisNaengi)
+- [ANOM](https://t.me/ousmmt)
